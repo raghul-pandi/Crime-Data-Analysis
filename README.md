@@ -1,10 +1,10 @@
-# Crime Data Analysis
+# Crime Data Analysis in Python
 
 ## Introduction ##
 
 The main aim of this project is to narrate a story about crime. There are many types of crime occuring at various times and places and this project is to provide insights about crime depending on various conditions like the time of the day, location, weather conditions and various seasons of the year. It also aims to find out whether we can predict occurences of crime based on previous data avaialble and to what accuracy. (still needs work)
 
-Please refer to the crime_data_analysis.html file for detailed crime analysis and prediction model.
+Please refer to the Crime_Data_Analysis.html file for detailed crime analysis and prediction model.
 
 ## Data ##
 
