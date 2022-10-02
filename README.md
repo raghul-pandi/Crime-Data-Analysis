@@ -12,5 +12,5 @@ The crime dataset was obtained from the Baltimore Police Department website (htt
 
 - Number of Rows in Original Dataset : 350294
 - Number of Columns in Original Crime Dataset: 19
-- Number of Data Points in Original Crime Dataset:6655586
+- Number of Data Points in Original Crime Dataset: 6655586
 
